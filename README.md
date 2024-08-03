@@ -1,5 +1,3 @@
-Here's a formatted `README.md` file based on the provided instructions:
-
 ```markdown
 # Project Name
 
