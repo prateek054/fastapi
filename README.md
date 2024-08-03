@@ -55,11 +55,4 @@ This command will start the server in development mode, with automatic reload en
 
 ## Contact
 
-For any queries or issues, please contact [Your Name] at [your-email@example.com].
-
----
-
-Happy Coding!
-```
-
-Replace placeholders like `Project Name`, `Your Name`, and `your-email@example.com` with the appropriate information for your project.
+For any queries or issues, please contact @prateek054
